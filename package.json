@@ -2,7 +2,7 @@
   "name": "geticonandgeneratejson",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
     "set": "nvm install 16.15.1 && nvm use 16.15.1",
     "start": "node index.mjs",
